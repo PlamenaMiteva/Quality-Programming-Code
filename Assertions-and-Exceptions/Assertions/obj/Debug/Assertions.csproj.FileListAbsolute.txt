@@ -1,0 +1,5 @@
+C:\Users\Plamena\Desktop\Assertions-and-Exceptions\Assertions\bin\Debug\Assertions-Homework.exe
+C:\Users\Plamena\Desktop\Assertions-and-Exceptions\Assertions\bin\Debug\Assertions-Homework.pdb
+C:\Users\Plamena\Desktop\Assertions-and-Exceptions\Assertions\obj\Debug\Assertions.csprojResolveAssemblyReference.cache
+C:\Users\Plamena\Desktop\Assertions-and-Exceptions\Assertions\obj\Debug\Assertions-Homework.exe
+C:\Users\Plamena\Desktop\Assertions-and-Exceptions\Assertions\obj\Debug\Assertions-Homework.pdb

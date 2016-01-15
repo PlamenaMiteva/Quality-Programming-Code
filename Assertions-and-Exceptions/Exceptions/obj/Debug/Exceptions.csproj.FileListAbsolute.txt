@@ -1,0 +1,4 @@
+C:\Users\Plamena\Desktop\Assertions-and-Exceptions\Exceptions\bin\Debug\Exceptions-Homework.exe
+C:\Users\Plamena\Desktop\Assertions-and-Exceptions\Exceptions\bin\Debug\Exceptions-Homework.pdb
+C:\Users\Plamena\Desktop\Assertions-and-Exceptions\Exceptions\obj\Debug\Exceptions-Homework.exe
+C:\Users\Plamena\Desktop\Assertions-and-Exceptions\Exceptions\obj\Debug\Exceptions-Homework.pdb

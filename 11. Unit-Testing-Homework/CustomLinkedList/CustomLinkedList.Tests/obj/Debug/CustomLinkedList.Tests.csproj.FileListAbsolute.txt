@@ -1,0 +1,7 @@
+C:\Users\Plamena\Desktop\11. Unit-Testing-Homework\CustomLinkedList\CustomLinkedList.Tests\bin\Debug\CustomLinkedList.Tests.dll
+C:\Users\Plamena\Desktop\11. Unit-Testing-Homework\CustomLinkedList\CustomLinkedList.Tests\bin\Debug\CustomLinkedList.Tests.pdb
+C:\Users\Plamena\Desktop\11. Unit-Testing-Homework\CustomLinkedList\CustomLinkedList.Tests\bin\Debug\CustomLinkedList.dll
+C:\Users\Plamena\Desktop\11. Unit-Testing-Homework\CustomLinkedList\CustomLinkedList.Tests\bin\Debug\CustomLinkedList.pdb
+C:\Users\Plamena\Desktop\11. Unit-Testing-Homework\CustomLinkedList\CustomLinkedList.Tests\obj\Debug\CustomLinkedList.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Plamena\Desktop\11. Unit-Testing-Homework\CustomLinkedList\CustomLinkedList.Tests\obj\Debug\CustomLinkedList.Tests.dll
+C:\Users\Plamena\Desktop\11. Unit-Testing-Homework\CustomLinkedList\CustomLinkedList.Tests\obj\Debug\CustomLinkedList.Tests.pdb

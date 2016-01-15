@@ -1,0 +1,6 @@
+C:\Users\Plamena\Desktop\PerformanceOfOperations\bin\Debug\PerformanceOfOperations.exe.config
+C:\Users\Plamena\Desktop\PerformanceOfOperations\bin\Debug\PerformanceOfOperations.exe
+C:\Users\Plamena\Desktop\PerformanceOfOperations\bin\Debug\PerformanceOfOperations.pdb
+C:\Users\Plamena\Desktop\PerformanceOfOperations\obj\Debug\PerformanceOfOperations.csprojResolveAssemblyReference.cache
+C:\Users\Plamena\Desktop\PerformanceOfOperations\obj\Debug\PerformanceOfOperations.exe
+C:\Users\Plamena\Desktop\PerformanceOfOperations\obj\Debug\PerformanceOfOperations.pdb

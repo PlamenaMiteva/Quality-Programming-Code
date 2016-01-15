@@ -1,0 +1,6 @@
+C:\Users\Plamena\Desktop\LinkedQueue\01.LinkedQueue\bin\Debug\01.LinkedQueue.exe.config
+C:\Users\Plamena\Desktop\LinkedQueue\01.LinkedQueue\bin\Debug\01.LinkedQueue.exe
+C:\Users\Plamena\Desktop\LinkedQueue\01.LinkedQueue\bin\Debug\01.LinkedQueue.pdb
+C:\Users\Plamena\Desktop\LinkedQueue\01.LinkedQueue\obj\Debug\01.LinkedQueue.csprojResolveAssemblyReference.cache
+C:\Users\Plamena\Desktop\LinkedQueue\01.LinkedQueue\obj\Debug\01.LinkedQueue.exe
+C:\Users\Plamena\Desktop\LinkedQueue\01.LinkedQueue\obj\Debug\01.LinkedQueue.pdb

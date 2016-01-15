@@ -1,0 +1,6 @@
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\CodeFormattingHomework\YoloSnake\bin\Debug\YoloSnake.exe.config
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\CodeFormattingHomework\YoloSnake\bin\Debug\YoloSnake.exe
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\CodeFormattingHomework\YoloSnake\bin\Debug\YoloSnake.pdb
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\CodeFormattingHomework\YoloSnake\obj\Debug\YoloSnake.csprojResolveAssemblyReference.cache
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\CodeFormattingHomework\YoloSnake\obj\Debug\YoloSnake.exe
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\CodeFormattingHomework\YoloSnake\obj\Debug\YoloSnake.pdb

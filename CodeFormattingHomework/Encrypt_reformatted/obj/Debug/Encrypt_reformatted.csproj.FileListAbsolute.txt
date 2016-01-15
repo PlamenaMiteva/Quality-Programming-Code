@@ -1,0 +1,6 @@
+c:\users\plamena\documents\visual studio 2013\Projects\CodeFormattingHomework\Encrypt_reformatted\bin\Debug\Encrypt_reformatted.exe.config
+c:\users\plamena\documents\visual studio 2013\Projects\CodeFormattingHomework\Encrypt_reformatted\bin\Debug\Encrypt_reformatted.exe
+c:\users\plamena\documents\visual studio 2013\Projects\CodeFormattingHomework\Encrypt_reformatted\bin\Debug\Encrypt_reformatted.pdb
+c:\users\plamena\documents\visual studio 2013\Projects\CodeFormattingHomework\Encrypt_reformatted\obj\Debug\Encrypt_reformatted.csprojResolveAssemblyReference.cache
+c:\users\plamena\documents\visual studio 2013\Projects\CodeFormattingHomework\Encrypt_reformatted\obj\Debug\Encrypt_reformatted.exe
+c:\users\plamena\documents\visual studio 2013\Projects\CodeFormattingHomework\Encrypt_reformatted\obj\Debug\Encrypt_reformatted.pdb

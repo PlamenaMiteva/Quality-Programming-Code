@@ -1,0 +1,6 @@
+c:\users\plamena\documents\visual studio 2013\Projects\CodeFormattingHomework\Encrypt\bin\Debug\Encrypt.exe.config
+C:\Users\Plamena\documents\visual studio 2013\Projects\CodeFormattingHomework\Encrypt\bin\Debug\Encrypt.exe
+C:\Users\Plamena\documents\visual studio 2013\Projects\CodeFormattingHomework\Encrypt\bin\Debug\Encrypt.pdb
+C:\Users\Plamena\documents\visual studio 2013\Projects\CodeFormattingHomework\Encrypt\obj\Debug\Encrypt.csprojResolveAssemblyReference.cache
+C:\Users\Plamena\documents\visual studio 2013\Projects\CodeFormattingHomework\Encrypt\obj\Debug\Encrypt.exe
+C:\Users\Plamena\documents\visual studio 2013\Projects\CodeFormattingHomework\Encrypt\obj\Debug\Encrypt.pdb

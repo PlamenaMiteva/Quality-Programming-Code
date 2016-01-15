@@ -1,0 +1,8 @@
+c:\users\plamena\documents\visual studio 2013\Projects\CodeFormattingHomework\Event\bin\Debug\Event.exe.config
+c:\users\plamena\documents\visual studio 2013\Projects\CodeFormattingHomework\Event\obj\Debug\Event.csprojResolveAssemblyReference.cache
+c:\users\plamena\documents\visual studio 2013\Projects\CodeFormattingHomework\Event\bin\Debug\Event.exe
+c:\users\plamena\documents\visual studio 2013\Projects\CodeFormattingHomework\Event\bin\Debug\Event.pdb
+c:\users\plamena\documents\visual studio 2013\Projects\CodeFormattingHomework\Event\bin\Debug\SoftUni.Wintellect.PowerCollections.dll
+c:\users\plamena\documents\visual studio 2013\Projects\CodeFormattingHomework\Event\bin\Debug\SoftUni.Wintellect.PowerCollections.xml
+c:\users\plamena\documents\visual studio 2013\Projects\CodeFormattingHomework\Event\obj\Debug\Event.exe
+c:\users\plamena\documents\visual studio 2013\Projects\CodeFormattingHomework\Event\obj\Debug\Event.pdb

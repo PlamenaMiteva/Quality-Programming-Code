@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Event", "Event\Event.csproj", "{B2943B68-5DA1-4AC6-BF97-BCB6B89258D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encrypt", "Encrypt\Encrypt.csproj", "{B2EB7B58-219B-47E1-8CE3-BBBC22876E6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encrypt_reformatted", "Encrypt_reformatted\Encrypt_reformatted.csproj", "{47DDAB6F-E8D6-4174-98A5-D0B0E6C783D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YoloSnake", "YoloSnake\YoloSnake.csproj", "{3076D871-B8C8-4D81-8ECD-4CAF3ACA7B1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2943B68-5DA1-4AC6-BF97-BCB6B89258D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2943B68-5DA1-4AC6-BF97-BCB6B89258D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2943B68-5DA1-4AC6-BF97-BCB6B89258D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2943B68-5DA1-4AC6-BF97-BCB6B89258D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2EB7B58-219B-47E1-8CE3-BBBC22876E6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2EB7B58-219B-47E1-8CE3-BBBC22876E6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2EB7B58-219B-47E1-8CE3-BBBC22876E6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2EB7B58-219B-47E1-8CE3-BBBC22876E6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47DDAB6F-E8D6-4174-98A5-D0B0E6C783D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47DDAB6F-E8D6-4174-98A5-D0B0E6C783D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47DDAB6F-E8D6-4174-98A5-D0B0E6C783D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47DDAB6F-E8D6-4174-98A5-D0B0E6C783D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3076D871-B8C8-4D81-8ECD-4CAF3ACA7B1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3076D871-B8C8-4D81-8ECD-4CAF3ACA7B1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3076D871-B8C8-4D81-8ECD-4CAF3ACA7B1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3076D871-B8C8-4D81-8ECD-4CAF3ACA7B1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

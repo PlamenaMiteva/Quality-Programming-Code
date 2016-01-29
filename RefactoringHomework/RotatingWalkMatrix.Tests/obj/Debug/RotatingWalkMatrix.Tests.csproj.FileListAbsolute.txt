@@ -1,0 +1,7 @@
+c:\users\plamena\documents\visual studio 2013\Projects\RefactoringHomework\RotatingWalkMatrix.Tests\bin\Debug\RotatingWalkMatrix.Tests.dll
+c:\users\plamena\documents\visual studio 2013\Projects\RefactoringHomework\RotatingWalkMatrix.Tests\bin\Debug\RotatingWalkMatrix.Tests.pdb
+c:\users\plamena\documents\visual studio 2013\Projects\RefactoringHomework\RotatingWalkMatrix.Tests\bin\Debug\RotatingWalkMatrix.exe
+c:\users\plamena\documents\visual studio 2013\Projects\RefactoringHomework\RotatingWalkMatrix.Tests\bin\Debug\RotatingWalkMatrix.pdb
+c:\users\plamena\documents\visual studio 2013\Projects\RefactoringHomework\RotatingWalkMatrix.Tests\obj\Debug\RotatingWalkMatrix.Tests.csprojResolveAssemblyReference.cache
+c:\users\plamena\documents\visual studio 2013\Projects\RefactoringHomework\RotatingWalkMatrix.Tests\obj\Debug\RotatingWalkMatrix.Tests.dll
+c:\users\plamena\documents\visual studio 2013\Projects\RefactoringHomework\RotatingWalkMatrix.Tests\obj\Debug\RotatingWalkMatrix.Tests.pdb

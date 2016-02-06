@@ -1,0 +1,8 @@
+c:\users\plamena\documents\visual studio 2013\Projects\VehicleParkingSystem\VehicleParkingSystemApp\bin\Debug\VehicleParkingSystemApp.exe.config
+c:\users\plamena\documents\visual studio 2013\Projects\VehicleParkingSystem\VehicleParkingSystemApp\obj\Debug\VehicleParkingSystemApp.csprojResolveAssemblyReference.cache
+c:\users\plamena\documents\visual studio 2013\Projects\VehicleParkingSystem\VehicleParkingSystemApp\bin\Debug\VehicleParkingSystemApp.exe
+c:\users\plamena\documents\visual studio 2013\Projects\VehicleParkingSystem\VehicleParkingSystemApp\bin\Debug\VehicleParkingSystemApp.pdb
+c:\users\plamena\documents\visual studio 2013\Projects\VehicleParkingSystem\VehicleParkingSystemApp\bin\Debug\SoftUni.Wintellect.PowerCollections.dll
+c:\users\plamena\documents\visual studio 2013\Projects\VehicleParkingSystem\VehicleParkingSystemApp\bin\Debug\SoftUni.Wintellect.PowerCollections.xml
+c:\users\plamena\documents\visual studio 2013\Projects\VehicleParkingSystem\VehicleParkingSystemApp\obj\Debug\VehicleParkingSystemApp.exe
+c:\users\plamena\documents\visual studio 2013\Projects\VehicleParkingSystem\VehicleParkingSystemApp\obj\Debug\VehicleParkingSystemApp.pdb

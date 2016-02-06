@@ -1,0 +1,9 @@
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\VehicleParkingSystem\VehicleParkingSystemTests\bin\Debug\VehicleParkingSystemTests.dll
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\VehicleParkingSystem\VehicleParkingSystemTests\bin\Debug\VehicleParkingSystemTests.pdb
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\VehicleParkingSystem\VehicleParkingSystemTests\bin\Debug\SoftUni.Wintellect.PowerCollections.dll
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\VehicleParkingSystem\VehicleParkingSystemTests\bin\Debug\VehicleParkingSystemApp.exe
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\VehicleParkingSystem\VehicleParkingSystemTests\bin\Debug\VehicleParkingSystemApp.pdb
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\VehicleParkingSystem\VehicleParkingSystemTests\bin\Debug\SoftUni.Wintellect.PowerCollections.xml
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\VehicleParkingSystem\VehicleParkingSystemTests\obj\Debug\VehicleParkingSystemTests.csprojResolveAssemblyReference.cache
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\VehicleParkingSystem\VehicleParkingSystemTests\obj\Debug\VehicleParkingSystemTests.dll
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\VehicleParkingSystem\VehicleParkingSystemTests\obj\Debug\VehicleParkingSystemTests.pdb

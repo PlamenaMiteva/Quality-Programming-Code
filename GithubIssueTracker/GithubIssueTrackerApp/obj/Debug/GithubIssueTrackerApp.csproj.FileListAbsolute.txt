@@ -1,0 +1,8 @@
+c:\users\plamena\documents\visual studio 2013\Projects\GithubIssueTracker\GithubIssueTrackerApp\bin\Debug\GithubIssueTrackerApp.exe.config
+c:\users\plamena\documents\visual studio 2013\Projects\GithubIssueTracker\GithubIssueTrackerApp\obj\Debug\GithubIssueTrackerApp.csprojResolveAssemblyReference.cache
+c:\users\plamena\documents\visual studio 2013\Projects\GithubIssueTracker\GithubIssueTrackerApp\bin\Debug\GithubIssueTrackerApp.exe
+c:\users\plamena\documents\visual studio 2013\Projects\GithubIssueTracker\GithubIssueTrackerApp\bin\Debug\GithubIssueTrackerApp.pdb
+c:\users\plamena\documents\visual studio 2013\Projects\GithubIssueTracker\GithubIssueTrackerApp\bin\Debug\SoftUni.Wintellect.PowerCollections.dll
+c:\users\plamena\documents\visual studio 2013\Projects\GithubIssueTracker\GithubIssueTrackerApp\bin\Debug\SoftUni.Wintellect.PowerCollections.xml
+c:\users\plamena\documents\visual studio 2013\Projects\GithubIssueTracker\GithubIssueTrackerApp\obj\Debug\GithubIssueTrackerApp.exe
+c:\users\plamena\documents\visual studio 2013\Projects\GithubIssueTracker\GithubIssueTrackerApp\obj\Debug\GithubIssueTrackerApp.pdb

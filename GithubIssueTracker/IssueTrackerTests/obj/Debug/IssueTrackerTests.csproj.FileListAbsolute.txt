@@ -1,0 +1,9 @@
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\GithubIssueTracker\IssueTrackerTests\bin\Debug\IssueTrackerTests.dll
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\GithubIssueTracker\IssueTrackerTests\bin\Debug\IssueTrackerTests.pdb
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\GithubIssueTracker\IssueTrackerTests\bin\Debug\GithubIssueTrackerApp.exe
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\GithubIssueTracker\IssueTrackerTests\bin\Debug\SoftUni.Wintellect.PowerCollections.dll
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\GithubIssueTracker\IssueTrackerTests\bin\Debug\GithubIssueTrackerApp.pdb
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\GithubIssueTracker\IssueTrackerTests\bin\Debug\SoftUni.Wintellect.PowerCollections.xml
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\GithubIssueTracker\IssueTrackerTests\obj\Debug\IssueTrackerTests.csprojResolveAssemblyReference.cache
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\GithubIssueTracker\IssueTrackerTests\obj\Debug\IssueTrackerTests.dll
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\GithubIssueTracker\IssueTrackerTests\obj\Debug\IssueTrackerTests.pdb

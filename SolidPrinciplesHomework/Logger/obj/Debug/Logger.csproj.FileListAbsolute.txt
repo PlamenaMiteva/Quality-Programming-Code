@@ -1,0 +1,6 @@
+c:\users\plamena\documents\visual studio 2013\Projects\SolidPrinciplesHomework\Logger\bin\Debug\Logger.exe.config
+c:\users\plamena\documents\visual studio 2013\Projects\SolidPrinciplesHomework\Logger\bin\Debug\Logger.exe
+c:\users\plamena\documents\visual studio 2013\Projects\SolidPrinciplesHomework\Logger\bin\Debug\Logger.pdb
+c:\users\plamena\documents\visual studio 2013\Projects\SolidPrinciplesHomework\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+c:\users\plamena\documents\visual studio 2013\Projects\SolidPrinciplesHomework\Logger\obj\Debug\Logger.exe
+c:\users\plamena\documents\visual studio 2013\Projects\SolidPrinciplesHomework\Logger\obj\Debug\Logger.pdb

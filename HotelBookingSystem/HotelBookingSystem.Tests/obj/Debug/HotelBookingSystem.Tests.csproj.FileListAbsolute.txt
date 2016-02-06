@@ -1,0 +1,9 @@
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\HotelBookingSystem\HotelBookingSystem.Tests\bin\Debug\HotelBookingSystem.Tests.dll
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\HotelBookingSystem\HotelBookingSystem.Tests\bin\Debug\HotelBookingSystem.Tests.pdb
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\HotelBookingSystem\HotelBookingSystem.Tests\bin\Debug\HotelBookingSystem.exe
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\HotelBookingSystem\HotelBookingSystem.Tests\bin\Debug\HotelBookingSystem.pdb
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\HotelBookingSystem\HotelBookingSystem.Tests\obj\Debug\HotelBookingSystem.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\HotelBookingSystem\HotelBookingSystem.Tests\obj\Debug\HotelBookingSystem.Tests.dll
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\HotelBookingSystem\HotelBookingSystem.Tests\obj\Debug\HotelBookingSystem.Tests.pdb
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\HotelBookingSystem\HotelBookingSystem.Tests\bin\Debug\Moq.dll
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\HotelBookingSystem\HotelBookingSystem.Tests\bin\Debug\Moq.xml

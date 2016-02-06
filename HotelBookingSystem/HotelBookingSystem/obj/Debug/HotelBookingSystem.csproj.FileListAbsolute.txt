@@ -1,0 +1,6 @@
+c:\users\plamena\documents\visual studio 2013\Projects\HotelBookingSystem\HotelBookingSystem\bin\Debug\HotelBookingSystem.exe.config
+c:\users\plamena\documents\visual studio 2013\Projects\HotelBookingSystem\HotelBookingSystem\bin\Debug\HotelBookingSystem.exe
+c:\users\plamena\documents\visual studio 2013\Projects\HotelBookingSystem\HotelBookingSystem\bin\Debug\HotelBookingSystem.pdb
+c:\users\plamena\documents\visual studio 2013\Projects\HotelBookingSystem\HotelBookingSystem\obj\Debug\HotelBookingSystem.exe
+c:\users\plamena\documents\visual studio 2013\Projects\HotelBookingSystem\HotelBookingSystem\obj\Debug\HotelBookingSystem.pdb
+C:\Users\Plamena\Documents\Visual Studio 2013\Projects\HotelBookingSystem\HotelBookingSystem\obj\Debug\HotelBookingSystem.csprojResolveAssemblyReference.cache
